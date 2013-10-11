@@ -1,0 +1,13 @@
+body {padding-top: 60px;}
+.error {color: red;}
+.no_decoration:hover, .no_decoration:focus {text-decoration: none;}
+.thumbnail .image-container {width: 100%; height: 200px; overflow: hidden; display: block;}
+.thumbnail h3 {height: 40px; overflow: hidden;}
+.thumbnail .description {height: 100px; overflow: hidden;}
+
+.image-container-big {width: 500px; height: 300px; margin: 0 20px 20px 0; text-align: center;}
+.image-container-big img {max-height: 300px; margin: 0 auto;}
+
+.label.label-big {font-size: 32px; line-height: 1.5em; padding: 0 15px; margin-bottom: 5px;}
+
+h4 > span.label {vertical-align: bottom;}

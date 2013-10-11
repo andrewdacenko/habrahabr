@@ -1,0 +1,23 @@
+{
+    "name": "way/laravel-test-helpers",
+    "description": "Easier testing in Laravel.",
+    "authors": [
+        {
+            "name": "Jeffrey Way",
+            "email": "jeffrey@jeffrey-way.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "illuminate/support": "4.0.x",
+        "mockery/mockery": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Way\\Tests": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
