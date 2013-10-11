@@ -14,7 +14,7 @@ class TagsTableSeeder extends Seeder {
 				'created_at' => DB::raw('NOW()')
 				),
 			array(
-				'name' => 'javacript', 
+				'name' => 'javascript', 
 				'updated_at' => DB::raw('NOW()'),
 				'created_at' => DB::raw('NOW()')
 				),
