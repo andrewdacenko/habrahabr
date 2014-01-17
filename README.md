@@ -21,4 +21,5 @@ To migrate DB Schema and seeds
 
 Enjoy!
 
-Real app is at [http://habr.eu1.frbit.net/](http://habr.eu1.frbit.net/)
+Demo app is at [Fortrabbit](http://habr.eu1.frbit.net/)
+Russian tutorial article at [Habrahabr.ru](http://habrahabr.ru/post/197454/)
